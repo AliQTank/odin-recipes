@@ -4,6 +4,10 @@
     font-weight: 300;/*value from 100 to 900*/
 }
 
+body {
+    padding: 3%;
+
+}
 
 img {
     height: 250px;
